@@ -16,7 +16,7 @@ Related articles:
 
 
 
-#Usage
-1- Download MEG signals for n=15 subjects form "Megocclusion-vr2" data repository and add into folder "MEG Data".
-2- Download and addpath "libsvm-3.23"
-3- Run demo.m
+# Usage
+1. Download MEG signals for n=15 subjects form "Megocclusion-vr2" data repository and add into folder "MEG Data".
+2. Download and addpath "libsvm-3.23"
+3. Run demo.m
