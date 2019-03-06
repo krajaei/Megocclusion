@@ -17,7 +17,7 @@ Related articles:
 
 # Results
 Decoding curves obtained by running demo.m
-![](decoding_occlusion.tif)
+![](/decoding_occlusion.tif)
 
 
 # Usage
