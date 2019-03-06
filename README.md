@@ -1,7 +1,7 @@
 # Megocclusion
 Code for analysis of MEG occlusion data
 
-This repository contains re-implementing code for the article "Beyond Core Object Recognition: Recurrent processes account for object recognition under occlusion": https://www.biorxiv.org/content/10.1101/302034v1.abstract.
+This repository contains implementing code for the decoding curves in Figure 1 of the article "Beyond Core Object Recognition: Recurrent processes account for object recognition under occlusion": https://www.biorxiv.org/content/10.1101/302034v1.abstract.
 
 Please refer to: Megocclusion-vr2 data repository (RepOD. http://dx.doi.org/10.18150/repod.7536911) for MEG data of occlusion.
 
