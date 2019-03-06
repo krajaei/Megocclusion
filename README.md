@@ -16,7 +16,7 @@ Related articles:
 
 
 # Results
-Decoding curves obtained by running demo.m
+Decoding curves obtained by running demo.m, which is average across n=15 human subjects
 ![](/decoding_occlusion.png)
 
 
