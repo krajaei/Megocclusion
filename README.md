@@ -6,7 +6,7 @@ This repository contains implementing code for the decoding curves in Figure 1 o
 Please refer to: Megocclusion-vr2 data repository (RepOD. http://dx.doi.org/10.18150/repod.7536911) for MEG data of occlusion.
 
 ### Related articles:
-{Rajaei , author = {Karim Rajaei, Yalda Mohsenzadeh, Reza Ebrahimpour, Seyed-Mahdi Khaligh-Razavi}, title = {Beyond Core Object Recognition: Recurrent processes account for object recognition under occlusion}, journal = {BioRXiv preprint :https://doi.org/10.1101/302034}, year = {2018}
+author = {Karim Rajaei, Yalda Mohsenzadeh, Reza Ebrahimpour, Seyed-Mahdi Khaligh-Razavi}, title = {Beyond Core Object Recognition: Recurrent processes account for object recognition under occlusion}, journal = {BioRXiv preprint :https://doi.org/10.1101/302034}, year = {2018}
 
 
 ## Results
