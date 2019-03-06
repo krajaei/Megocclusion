@@ -17,10 +17,11 @@ Related articles:
 
 # Results
 Decoding curves obtained by running demo.m
-
+![](decoding_occlusion.tif)
 
 
 # Usage
-1. Download MEG signals for n=15 subjects form "Megocclusion-vr2" data repository and add them into "MEG Data" folder.
+1. Create a folder with name "MEG Data". 
+2. Download MEG signals for n=15 subjects form "Megocclusion-vr2" data repository and add them to "MEG Data" .
 2. Download and addpath "libsvm-3.23"
 3. Run demo.m
