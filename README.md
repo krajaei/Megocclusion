@@ -16,6 +16,6 @@ Decoding curves obtained by running demo.m, which is average across n=15 human s
 
 ## Usage
 1. Create a folder with name "MEG Data". 
-2. Download MEG signals for n=15 subjects form "Megocclusion-vr2" data repository and add them to "MEG Data" .
+2. Download MEG signals for n=15 subjects form "Megocclusion-vr2" (RepOD. http://dx.doi.org/10.18150/repod.7536911) data repository and add them to "MEG Data" .
 2. Download and addpath "libsvm-3.23"
 3. Run demo.m
