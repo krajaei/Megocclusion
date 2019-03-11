@@ -32,7 +32,7 @@ for sub=1:numsubjects
     for i=1:length(occlusion_levels)
         for j=1:length(CatVsCat)
             trials=[];
-            fprintf( 'Doing pairwise decoding for %s vs. %s (this may take several minutes)... ', categories{CatVsCat(j,1)}, categories{CatVsCat(j,2)});
+            fprintf( 'Doing pairwise decoding for %s, %s vs. %s (this may take several minutes)... ',occlusion_levels{i}, categories{CatVsCat(j,1)}, categories{CatVsCat(j,2)});
             % select samples from category#1 vs category#2
             for t=1:length(Data)
                 if strcmp(Data(t).Mask_Or_Nomask,mask)
