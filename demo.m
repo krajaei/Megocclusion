@@ -28,7 +28,7 @@ LowPass = 20;% Lowpass filtering
 %% Decoding 
 for sub=1:numsubjects
     fprintf('Loading MEG data for subject #%d ...\n',sub);
-    load(['MEG Data\subject_' num2str(sub) '.mat'])
+    load(['MEG Data\subject' num2str(sub) '.mat'])
     for i=1:length(occlusion_levels)
         for j=1:length(CatVsCat)
             trials=[];
