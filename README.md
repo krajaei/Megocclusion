@@ -8,7 +8,7 @@ Please refer to: Megocclusion-vr3 data repository (RepOD. http://dx.doi.org/10.1
 ### Related articles:
 author = {Karim Rajaei, Yalda Mohsenzadeh, Reza Ebrahimpour, Seyed-Mahdi Khaligh-Razavi}, title = {Beyond Core Object Recognition: Recurrent processes account for object recognition under occlusion}, journal = {BioRXiv preprint :https://doi.org/10.1101/302034}, year = {2018}
 
-###Sample images of occlusion dataset
+### Sample images of occlusion dataset
 ![](/Sample images of occlusion dataset.png)
 
 ## Results
