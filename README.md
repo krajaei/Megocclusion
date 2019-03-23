@@ -10,7 +10,9 @@ author = {Karim Rajaei, Yalda Mohsenzadeh, Reza Ebrahimpour, Seyed-Mahdi Khaligh
 
 ### Occlusion dataset
 Sample images of occluded and un-occluded (0% occlusion) objects. There are four object categories: camel, deer, car, and motor. Images are occluded at 0% (no-occlusion), 60%, and 80% occlusion. 
+
 ![](/Sample_occlusion_dataset.png)
+
 
 
 ## Results
